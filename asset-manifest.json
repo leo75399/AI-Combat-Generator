@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AI-Combat-Generator/static/css/main.d4c80c1e.css",
+    "main.js": "/AI-Combat-Generator/static/js/main.a4883644.js",
+    "static/js/453.a5a72b74.chunk.js": "/AI-Combat-Generator/static/js/453.a5a72b74.chunk.js",
+    "static/media/banner.gif": "/AI-Combat-Generator/static/media/banner.9229460c5dad52b5d5ad.gif",
+    "index.html": "/AI-Combat-Generator/index.html",
+    "main.d4c80c1e.css.map": "/AI-Combat-Generator/static/css/main.d4c80c1e.css.map",
+    "main.a4883644.js.map": "/AI-Combat-Generator/static/js/main.a4883644.js.map",
+    "453.a5a72b74.chunk.js.map": "/AI-Combat-Generator/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c80c1e.css",
+    "static/js/main.a4883644.js"
+  ]
+}
