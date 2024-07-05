@@ -1,0 +1,86 @@
+import React from "react";
+import banner from "../img/banner.gif";
+function Start({ setStatus, setCharacter, setOpponent, character }) {
+  useEffect(() => {
+    if (!!character["name"]) {
+      setCharacter({
+        name: "",
+        nameEnglish: "",
+        photo: "",
+        intro: "",
+        hp: 100,
+        skills: [
+          {
+            name: "",
+            description: "",
+          },
+          {
+            name: "",
+            description: "",
+          },
+          {
+            name: "",
+            description: "",
+          },
+          {
+            name: "",
+            description: "",
+          },
+        ],
+      });
+
+      setOpponent({
+        name: "",
+        nameEnglish: "",
+        photo: "",
+        intro: "",
+        hp: 100,
+        skills: [
+          {
+            name: "",
+            description: "",
+          },
+          {
+            name: "",
+            description: "",
+          },
+          {
+            name: "",
+            description: "",
+          },
+          {
+            name: "",
+            description: "",
+          },
+        ],
+      });
+    }
+  }, []);
+
+  return (
+    <>
+      <div className="index_top">
+        <h1>張飛打岳飛</h1>
+
+        <div className="index_banner">
+          <img src={banner} alt="" />
+        </div>
+
+        <button
+          className="nes-btn is-primary"
+          onClick={() => {
+            setStatus("SelectP1");
+          }}
+        >
+          開始遊戲
+        </button>
+      </div>
+      <div className="index_down">
+        <div>Version 0.2</div>
+        <div>🄲 Young</div>
+      </div>
+    </>
+  );
+}
+
+export default Start;
