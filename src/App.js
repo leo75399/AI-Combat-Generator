@@ -133,7 +133,7 @@ function App() {
             return <ErrorScreen error={error} setStatus={setStatus} />;
 
           case "Start":
-            return <Start setStatus={setStatus} setCharacter={setCharacter} character={character} setOpponent={setOpponent} opponent={opponent} />;
+            return <Start setStatus={setStatus} setCharacter={setCharacter} character={character} setOpponent={setOpponent} />;
           case "SelectP1":
             return <SelectP1 character={character} setCharacter={setCharacter} createRole={createRole} setStatus={setStatus} />;
           case "SelectP2":

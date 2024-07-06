@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import banner from "../img/banner.gif";
 function Start({ setStatus, setCharacter, setOpponent, character }) {
   useEffect(() => {
@@ -59,10 +59,10 @@ function Start({ setStatus, setCharacter, setOpponent, character }) {
 
   return (
     <>
-      <div className="index_top">
+      <div className="start_top">
         <h1>張飛打岳飛</h1>
 
-        <div className="index_banner">
+        <div className="start_banner">
           <img src={banner} alt="" />
         </div>
 
@@ -75,7 +75,7 @@ function Start({ setStatus, setCharacter, setOpponent, character }) {
           開始遊戲
         </button>
       </div>
-      <div className="index_down">
+      <div className="start_down">
         <div>Version 0.2</div>
         <div>🄲 Young</div>
       </div>
