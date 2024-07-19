@@ -1,71 +1,29 @@
-# Getting Started with Create React App
+# 🎮 張飛大戰岳飛 - 史詩級對決遊戲！
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🌟 遊戲簡介
 
-## Available Scripts
+準備好迎接一場前所未有的英雄對決了嗎？在「張飛大戰岳飛」中，你將踏入一個充滿無限可能的世界！這不僅僅是一場普通的回合制戰鬥遊戲，而是一場由你的想像力主導的史詩級冒險！
 
-In the project directory, you can run:
+🔥 **立即開始你的冒險：[點擊這裡開始遊戲](https://leo75399.github.io/AI-Combat-Generator/)** 🔥
 
-### `npm start`
+## 🚀 遊戲特色
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🧙‍♂️ AI 超強角色生成器：輸入任何名字，看看 AI 會為你創造出什麼樣的傳奇英雄！
+- 🎭 無限可能的角色組合：張飛 vs 美國隊長？皮卡丘 vs 魯夫？一切由你決定！
+- ⚔️ 刺激的回合制戰鬥：策略、技能、運氣，誰能笑到最後？
+- 🕹️ 復古風格 UI：搭配 NES.css，帶你重返 8-bit 黃金年代！
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎮 如何開始你的冒險
 
-### `npm test`
+1. 🚀 訪問 [遊戲鏈接](https://leo75399.github.io/AI-Combat-Generator/)
+2. 🖱️ 點擊「開始遊戲」，踏上你的英雄之旅！
+3. 💡 輸入你的角色名稱，或讓系統為你隨機挑選一個酷炫角色！
+4. 🤔 選擇你的對手，或者挑戰一個隨機生成的神秘對手！
+5. ⚡ 在戰鬥畫面中，每回合選擇一個技能並點擊「攻擊」！
+6. 🏆 當一方 HP 歸零時，遊戲結束！贏家將獲得無上的榮耀！
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ 技術細節
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# AI-Combat-Generator
+- ⚛️ ReactJS
+- 🤖 Google Gemini API 與 getimg.ai
+- 🎨 NES.css
