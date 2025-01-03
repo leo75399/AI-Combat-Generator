@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AI-Combat-Generator/static/css/main.5c6a6151.css",
-    "main.js": "/AI-Combat-Generator/static/js/main.dfa26bf8.js",
+    "main.js": "/AI-Combat-Generator/static/js/main.d2a875b3.js",
     "static/js/453.a5a72b74.chunk.js": "/AI-Combat-Generator/static/js/453.a5a72b74.chunk.js",
     "static/media/banner.gif": "/AI-Combat-Generator/static/media/banner.9229460c5dad52b5d5ad.gif",
     "index.html": "/AI-Combat-Generator/index.html",
     "main.5c6a6151.css.map": "/AI-Combat-Generator/static/css/main.5c6a6151.css.map",
-    "main.dfa26bf8.js.map": "/AI-Combat-Generator/static/js/main.dfa26bf8.js.map",
+    "main.d2a875b3.js.map": "/AI-Combat-Generator/static/js/main.d2a875b3.js.map",
     "453.a5a72b74.chunk.js.map": "/AI-Combat-Generator/static/js/453.a5a72b74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c6a6151.css",
-    "static/js/main.dfa26bf8.js"
+    "static/js/main.d2a875b3.js"
   ]
 }
